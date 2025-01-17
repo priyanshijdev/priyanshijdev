@@ -11,8 +11,6 @@ I am a **MERN Stack Developer** with a focus on **React.js** and **Frontend Deve
   
 ## 🌱 What I’m Learning
 - Currently exploring more in NextJS
-- React Hooks and Context API
-- TypeScript with React
 - Next.js for SSR and SSG
 
 ## 📫 Get In Touch
