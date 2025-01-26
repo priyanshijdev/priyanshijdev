@@ -8,10 +8,6 @@ I am a **MERN Stack Developer** with a focus on **React.js** and **Frontend Deve
 - **Database:** MongoDB, Postgres, NoSQL
 - **Version Control:** Git, GitHub , BitBucket
 - **Dev Tools:** VSCode, Postman, Docker , SmartCat Tool , cloud Watch
-  
-## 🌱 What I’m Learning
-- Currently exploring more in NextJS
-- Next.js for SSR and SSG
 
 ## 📫 Get In Touch
 - 🔗 LinkedIn: https://www.linkedin.com/in/priyanshijdev/
