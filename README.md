@@ -12,7 +12,7 @@ I am a **Software Developer** with a focus on **React.js & Next.js** and **Front
 ## 📫 Get In Touch
 - 🔗 LinkedIn: https://www.linkedin.com/in/priyanshijdev/
 - 📧 Email: jainpanchi1602@gmail.com
-- 🌐 Website/Portfolio: https://priyanshijdev-portfolio.vercel.app/
+- 🌐 Website/Portfolio: https://priyanshijdev-portfolio-1602.vercel.app/
 
 Feel free to reach out if you'd like to collaborate on any exciting React.js or frontend development projects!
 
